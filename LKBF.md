@@ -2,6 +2,7 @@
 ## **1. Persiapan Awal**
 ### **a. Membuka Ruangan**
 
+0. Berdoa
 1. Buka pintu rumah teleskop dan kaitkan pintu agar tidak tertutup atau mengayun karena angin.
 2. Periksa kondisi dalam ruangan:
     - Pastikan tidak ada kebocoran air atau area yang basah.
